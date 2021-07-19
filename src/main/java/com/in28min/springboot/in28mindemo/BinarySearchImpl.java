@@ -15,5 +15,6 @@ public class BinarySearchImpl {
 		System.out.println(sortAlgorithm);
 		
 		return 3;
+		
 	}
 }
